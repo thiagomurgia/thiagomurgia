@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá!👋Seja bem vindo(a) ao meu perfil!  :tada::confetti_ball:
 
-<!--
-**thiagomurgia/thiagomurgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meu nome é Thiago!
+### No meu perfil você vai encontrar alguns projetos pessoais que ando desenvolvendo :muscle: para aprimorar meu conhecimento em algumas linguagens e frameworks:computer:, fique a vontade para navegar e olhar:eyes: o que ando fazendo!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Ultimamente tenho me dedicado a estudar React-Native. :iphone:
+> 
+> Portanto os projetos postados serão voltados para desenvolvimento mobile.
+> 
+## Mas tenho também conhecimentos em:
+> - Javascript
+> - React
+> - HTML
+> - CSS
+> - NodeJs
+> - NoSQL
