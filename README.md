@@ -9,6 +9,8 @@
 ><img height="160em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomurgia&layout=compact&langs_count=16&theme=onedark"/> </br>
 
 
+
+
 ### Tecnologias e Ferramentas:
 ><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg'>&emsp;&emsp;
 ><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg'>&emsp;&emsp;
@@ -28,8 +30,6 @@
 ><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;&emsp;
 ><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>&emsp;&emsp;
 ><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&emsp;&emsp;
-
-
 
 
 
