@@ -1,4 +1,6 @@
-# <p align="center"><img width="70em" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp"/> Bem vindo(a) ao meu perfil!</P>
+# <p align="center">Bem vindo(a) ao meu perfil!</p></br><p align="center"><img width="70em" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp"/></p>
+
+
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=verdana&color=2E7920&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Thiago+Murgia.;Sou+desenvolvedor+full+stack.;Foco%3A+NodeJs%2C+React%2C+React+Native)](https://git.io/typing-svg"/></p>
 
 <p align= "center">
