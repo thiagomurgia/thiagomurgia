@@ -9,17 +9,27 @@
 ><img height="160em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomurgia&layout=compact&langs_count=16&theme=onedark"/> </br>
 
 
-### Tecnologias:
+### Tecnologias e Ferramentas:
 ><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg'>&emsp;&emsp;
 ><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg'>&emsp;&emsp;
 ><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>&emsp;&emsp;
 ><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'>&emsp;&emsp;
 ><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>&emsp;&emsp;
-><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg'>
-
-### Ferramentas:
+><img width="70em" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg'>&emsp;&emsp;
 ><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>&emsp;&emsp;
-><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>&emsp;&emsp;
+><img width="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&emsp;&emsp;
+
+
 
 
 
